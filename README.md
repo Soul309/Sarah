@@ -24,3 +24,24 @@ can open news website
 can shutdown whole system 
 
 can tell introduce herself
+
+----------------Requirements----------------
+
+Python3
+
+Operating system - Windows
+
+-------------API--------------------------------
+Open weather map api for the weather feature
+
+--------------LIBRARIES------------------------
+
+Wikipedia - for wikipedia integration
+
+OS - for controlling opeating sytem activities with python
+
+datetime - for the use of correct greeting message like good morning,good noon or good night on start
+
+requests - for fetching the weather data from weathermap
+
+pyttsx3 - for text to speech conversion
