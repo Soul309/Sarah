@@ -25,7 +25,7 @@ can shutdown whole system
 
 can tell introduce herself
 
-----------------Requirements----------------
+----------------**Requirements**----------------
 
 Python3
 
@@ -35,7 +35,7 @@ Operating system - Windows 10
 
 Open weather map api for the weather feature
 
---------------LIBRARIES------------------------
+--------------**LIBRARIES**------------------------
 
 Wikipedia - for wikipedia integration
 
