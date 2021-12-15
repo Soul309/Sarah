@@ -23,7 +23,7 @@ can open news website
 
 can shutdown whole system 
 
-can tell introduce herself
+can introduce herself
 
 ----------------**Requirements**----------------
 
