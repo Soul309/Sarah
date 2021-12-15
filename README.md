@@ -29,9 +29,10 @@ can tell introduce herself
 
 Python3
 
-Operating system - Windows
+Operating system - Windows 10
 
 -------------API--------------------------------
+
 Open weather map api for the weather feature
 
 --------------LIBRARIES------------------------
@@ -45,3 +46,5 @@ datetime - for the use of correct greeting message like good morning,good noon o
 requests - for fetching the weather data from weathermap
 
 pyttsx3 - for text to speech conversion
+
+
