@@ -48,3 +48,5 @@ requests - for fetching the weather data from weathermap
 pyttsx3 - for text to speech conversion
 
 
+![94780233-bc829280-03e5-11eb-803f-4823bdbcec0c](https://user-images.githubusercontent.com/59394769/146320325-b84af0b7-7ac4-40fb-affd-2a582c481c70.gif)
+
